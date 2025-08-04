@@ -24,13 +24,6 @@ This project demonstrates how to ingest and correlate external threat intelligen
 -  Save Search as an Alert
 -  Create a Dashboard for IOC Hits
 
-
-
-## Outcome
-
-# Alerts trigger when known IOCs are found in process or network logs. Analysts can visualize IOC matches via dashboards for better triage.
-
----
 ## pictures 
 
  ![](./threat.jpg)
@@ -45,4 +38,9 @@ This project demonstrates how to ingest and correlate external threat intelligen
 ## Using PowerShell to visit a known IOC
  
 ---
+
+## Outcome
+
+ Alerts trigger when known IOCs are found in process or network logs. Analysts can visualize IOC matches via dashboards for better triage.
+
 
