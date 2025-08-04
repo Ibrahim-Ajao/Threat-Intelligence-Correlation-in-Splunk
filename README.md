@@ -32,12 +32,12 @@ Alerts trigger when known IOCs are found in process or network logs. Analysts ca
 ---
 ## pictures 
 - IOCs collection sites
-![](./threat.jpg)
-
+- ![](./threat.jpg)
+---
 - creating lookup defination in splunk to upload the CSV file
-  ![](./threat2.jpg)
-
+ - ![](./threat2.jpg)
+---
 - Using PowerShell to visit a known IOC
-![](./threat1.jpg)
+- ![](./threat1.jpg)
 ---
 
