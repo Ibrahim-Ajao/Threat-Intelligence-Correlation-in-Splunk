@@ -31,13 +31,13 @@ This project demonstrates how to ingest and correlate external threat intelligen
 Alerts trigger when known IOCs are found in process or network logs. Analysts can visualize IOC matches via dashboards for better triage.
 ---
 ## pictures 
-- IOCs collection sites
-- ![](./threat.jpg)
+## IOCs collection sites
+ ![](./threat.jpg)
 ---
-- creating lookup defination in splunk to upload the CSV file
- - ![](./threat2.jpg)
+## creating lookup defination in splunk to upload the CSV file
+ ![](./threat2.jpg)
 ---
-- Using PowerShell to visit a known IOC
-- ![](./threat1.jpg)
+## Using PowerShell to visit a known IOC
+ ![](./threat1.jpg)
 ---
 
