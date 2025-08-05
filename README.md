@@ -30,7 +30,7 @@ This project demonstrates how to ingest and correlate external threat intelligen
 
  Alerts trigger when known IOCs are found in process or network logs. Analysts can visualize IOC matches via dashboards for better triage.
 
-## FInal Report <a href="https://github.com/Ibrahim-Ajao/reports-correlation_summary_report.md">Report</a>
+##  <a href="https://github.com/Ibrahim-Ajao/reports-correlation_summary_report.md">Final Report</a>
  
 ---
 ## pictures 
